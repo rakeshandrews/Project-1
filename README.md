@@ -100,6 +100,6 @@ _As a **Bonus**, provide the specific commands the user will need to run to down
 3.	sudo docker start "container name"
 4.	sudo docker attach "container name"
 5.	cd /etc/ansible
-6.	ansible-playbook "elk-playbook".yml 
-7.	ansible-playbook "filebeat-playbook".yml 
-8. ansible-playbook "metricbeat-playbook".yml
+6.	ansible-playbook "elk-playbook name".yml 
+7.	ansible-playbook "filebeat-playbook name".yml 
+8. ansible-playbook "metricbeat-playbook name".yml
