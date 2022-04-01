@@ -97,10 +97,10 @@ _As a **Bonus**, provide the specific commands the user will need to run to down
 
 1.	ssh public ip
 2.	sudo docker list -a
-3.	sudo docker start intelligent_bowman
-4.	sudo docker attach intelligent_bowman
+3.	sudo docker start "container name"
+4.	sudo docker attach "container name"
 5.	cd /etc/ansible
-6.	ansible-playbook elk-playbook.yml 
+6.	ansible-playbook "elk playbook name".yml 
 7.	cd /etc/ansible/
-8.	ansible-playbook beats-playbook.yml 
+8.	ansible-playbook "beats-playbook name".yml 
 
