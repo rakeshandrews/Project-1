@@ -95,7 +95,7 @@ Within the Hosts file
 - _Which URL do you navigate to in order to check that the ELK server is running? http://10.1.0.5:5601 (elk server IP)
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
 
-1.	ssh randrews@40.78.12.36
+1.	ssh public id
 2.	sudo docker list -a
 3.	sudo docker start intelligent_bowman
 4.	sudo docker attach intelligent_bowman
