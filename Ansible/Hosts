@@ -1,0 +1,26 @@
+# This is the default ansible 'hosts' file.
+#* Documentation:  https://help.ubuntu.com
+# It should live in /etc/ansible/hostsanonical.com
+#* Support:        https://ubuntu.com/advantage
+#   - Comments begin with the '#' character
+#   - Blank lines are ignoredi Apr  1 00:13:27 UTC 2022
+#   - Groups of hosts are delimited by [header] elements
+#   - You can enter hostnames or ip addresses              108
+#   - A hostname/ip can be a member of multiple groups     0
+  Memory usage: 34%                IP address for eth0:    10.0.0.4
+# Ex 1: Ungrouped hosts, specify before any group headers. 172.17.0.1
+
+#green.example.com for small spaces - read how we shrank the memory
+#blue.example.comicroK8s to make it the smallest full K8s around.
+#192.168.100.1
+#192.168.100.10tu.com/blog/microk8s-memory-optimisation
+
+# Ex 2: A collection of hosts belonging to the 'webservers' group
+3 of these updates are standard security updates.
+[webservers] additional updates run: apt list --upgradable
+#alpha.example.org
+#beta.example.org
+#192.168.1.100tart required ***
+#192.168.1.110d Mar 30 13:53:49 2022 from 71.207.149.48
+10.0.0.5 ansible_python_interpreter=/usr/bin/python3ntelligent_bouman
+10.0.0.6 ansible_python_interpreter=/usr/bin/python3
